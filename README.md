@@ -2,7 +2,9 @@
 
 Made a fun little timer to run in terminal.
 
-Will need a version of python on machine, all you need to do is clone down repo, and start up app with python.
+You will need a version of python on machine to run the code.
+
+Just clone the repo to local directory and run:
 
 ``` bash
 $ python timer.py
